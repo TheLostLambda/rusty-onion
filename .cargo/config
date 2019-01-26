@@ -1,0 +1,2 @@
+[target.mipsel-unknown-linux-musl]
+linker = "/home/tll/Documents/Coding/SDKs/Omega2+/toolchain-mipsel_24kc_gcc-7.4.0_musl/bin/mipsel-openwrt-linux-gcc"
